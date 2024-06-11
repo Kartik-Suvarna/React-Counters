@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://Kartik-Suvarna.github.io/React-Counters",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
