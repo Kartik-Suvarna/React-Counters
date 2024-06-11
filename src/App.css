@@ -1,0 +1,40 @@
+.Hero{
+  width: 100%;
+  background-color: aliceblue;
+}
+
+.counter{
+  width: 1 rem;
+  background-color: rgb(42, 128, 213);
+  border: black solid ;
+  border-radius: 10px;
+  padding: 1rem;
+  margin: 1rem;
+}
+
+.dec{
+  width: 50px;
+  height: 50px;
+  margin: 1rem;
+  background-color: rgb(255, 134, 134);
+  border-radius: 100%;
+  border: solid black;
+}
+
+.inc{
+  width: 50px;
+  height: 50px;
+  margin: 1rem;
+  background-color: rgb(88, 255, 88);
+  border-radius: 100%;
+  border: solid black
+}
+
+.local{
+  width: 10%;
+  background-color: rgb(191, 44, 217);
+  border: black solid ;
+  border-radius: 10px;
+  padding: 1rem;
+  margin: 1rem;
+}
